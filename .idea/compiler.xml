@@ -15,7 +15,7 @@
       <module name="MySecretAdmirer" target="1.5" />
       <module name="persistence" target="1.5" />
       <module name="services" target="1.5" />
-      <module name="ui" target="1.5" />
+      <module name="ui" target="1.6" />
     </bytecodeTargetLevel>
   </component>
 </project>

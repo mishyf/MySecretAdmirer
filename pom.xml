@@ -24,6 +24,7 @@
         <servletApiVersion>3.1.0</servletApiVersion>
         <jstlVersion>1.2</jstlVersion>
         <primefacesVersion>6.0</primefacesVersion>
+        <primefacesThemesVersion>1.0.8</primefacesThemesVersion>
         <mavenCompilerPluginVersion>3.6.1</mavenCompilerPluginVersion>
         <mavenWarPluginVersion>3.0.0</mavenWarPluginVersion>
         <buildVersion>1.8</buildVersion>

@@ -35,6 +35,11 @@
             <artifactId>primefaces</artifactId>
             <version>${primefacesVersion}</version>
         </dependency>
+        <dependency>
+            <groupId>org.primefaces.extensions</groupId>
+            <artifactId>all-themes</artifactId>
+            <version>${primefacesThemesVersion}</version>
+        </dependency>
     </dependencies>
 
     <build>

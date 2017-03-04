@@ -12,5 +12,17 @@
     <artifactId>persistence</artifactId>
     <packaging>jar</packaging>
 
+    <dependencies>
+        <dependency>
+            <groupId>org.hibernate</groupId>
+            <artifactId>hibernate-core</artifactId>
+            <version>${hibernateVersion}</version>
+        </dependency>
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>${mySqlConnectorVersion}</version>
+        </dependency>
+    </dependencies>
 
 </project>
